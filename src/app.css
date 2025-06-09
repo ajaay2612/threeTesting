@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+
+/* Then update your theme */
+@theme {
+    /* font */
+    /* --font-inter: "Inter", "sans-serif"; */
+
+    /* text size */
+    /* --text-MqSmall: min(max(0rem, 3.5vw),1rem); */
+
+    /* color */
+    /* --color-pri: #FA5610; */
+
+    /* breakpoints */
+    /* --breakpoint-xsm: 500px; */
+    
+    /* spacing */
+    --spacing-0hem: 0.5em;
+    --spacing-1em: 1em;
+    --spacing-1hem: 1.5em;
+    --spacing-2em: 2em;
+    --spacing-2hem: 2.5em;
+    --spacing-3em: 3em;
+    --spacing-3hem: 3.5em;
+    --spacing-4em: 4em;
+    --spacing-4hem: 4.5em;
+    --spacing-5em: 5em;
+    --spacing-5hem: 5.5em;
+    --spacing-6em: 6em;
+    --spacing-6hem: 6.5em;
+    --spacing-7em: 7em;
+    --spacing-7hem: 7.5em;
+    --spacing-8em: 8em;
+    --spacing-8hem: 8.5em;
+    --spacing-9em: 9em;
+    --spacing-9hem: 9.5em;
+    --spacing-10em: 10em;
+    --spacing-10hem: 10.5em;
+}
+
+
+svg{
+    width:100%;
+    height:100%;
+}
